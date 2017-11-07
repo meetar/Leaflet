@@ -687,7 +687,15 @@ Plugins to display <a href="https://github.com/mapbox/vector-tile-spec">vector t
 			<a href="https://github.com/IvanSanchez">Iván Sánchez</a>
 		</td>
 	</tr>
-</table>
+	<tr>
+		<td>
+			<a href="https://github.com/tangrams/tangram">Tangram JS</a>
+		</td><td>
+			Real-time rendering of vector and raster datasets, using WebGL.
+		</td><td>
+			<a href="https://www.mapzen.com">Mapzen</a>
+		</td>
+	</tr></table>
 
 
 ## Overlay data
